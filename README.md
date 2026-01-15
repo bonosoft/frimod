@@ -1,8 +1,5 @@
 # FREMO INTELIGENT MODULE OCCUPANCY DETECTOR
----
-
-# DCC Track Occupancy Detector
-
+## DCC Track Occupancy Detector
 ## 2-Channel Block Occupancy Detector for Model Railways
 
 ---
